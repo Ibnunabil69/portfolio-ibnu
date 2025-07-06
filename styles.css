@@ -77,3 +77,8 @@ html {
 #stickyNav[data-aos] {
     transform: translateX(-50%) !important;
 }
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
